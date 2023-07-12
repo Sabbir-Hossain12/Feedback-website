@@ -1,0 +1,78 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+main .container
+{
+ /* background-color: bisque; */
+ 
+ width: 35%;
+ /* margin: 0 auto; */
+ /* background-color: rgb(237, 78, 20); */
+ /* height:70vh; */
+ margin-top: 2rem;
+}
+
+.submit-button
+{
+  background-color: black;
+  color: aliceblue;
+}
+
+body
+{
+  
+  
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+main
+{
+  flex-grow: 1;
+}
+.header-top 
+{
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+
+ text-align: center; 
+}
+
+.header-secondary
+{
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#myform
+{
+   width: 100%;
+}
+
+
+
+
+footer 
+{
+  margin-top: auto;
+}
+
+
+/* feedback page */
+
+.card1
+{
+  
+  
+  width: 60%;
+  margin: 0 auto;
+ 
+}
